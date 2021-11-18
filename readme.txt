@@ -1,4 +1,4 @@
-Othello - Assignment 3
+Othello(Assigment 2)
 
 How I implemented the board, the players, the disks...
 
